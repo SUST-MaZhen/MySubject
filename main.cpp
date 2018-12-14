@@ -14,8 +14,8 @@ int main(int argc, char *argv[])
 //    a.processEvents();
 //    for(long index=0;index<1000000000;index++);
 
-    Login w;
-    w.show();
+    Login w1;
+    w1.show();
     //splash.finish(&w);
 
     return a.exec();
