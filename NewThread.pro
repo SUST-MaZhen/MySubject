@@ -57,3 +57,6 @@ RESOURCES += \
     icon.qrc
 RC_FILE += icon.rc
 
+DISTFILES += \
+    mypaper/mypaper.doc
+
